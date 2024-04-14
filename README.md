@@ -26,7 +26,7 @@ Application for buying and selling clothes and following fashion
 <img src="Resetpassword.png" alt="drawing" style="width:200px;"/> <img src="verifycode.png" alt="drawing" style="width:200px;"/> <img src="createnewpassword.png" alt="drawing" style="width:200px;"/>
 
 #### Main Screen
-<img src="homeScreen.png" alt="drawing" style="width:200px;"/> <img src="mycart.jpg" alt="drawing" style="width:200px;"/> <img src="profile.png" alt="drawing" style="width:200px;"/>
+<img src="homeScreen.png" alt="drawing" style="width:200px;"/> <img src="mycart.png" alt="drawing" style="width:200px;"/> <img src="profile.png" alt="drawing" style="width:200px;"/>
 
 #### Search
 <img src="search.png" alt="drawing" style="width:200px;"/>
