@@ -14,7 +14,7 @@ Application for buying and selling clothes and following fashion
 ## Features
 
 #### Welcome Screen
-<img src="welcome_screen.jpg" alt="drawing" style="width:200px;"/>
+<img src="welcome_screen.png" alt="drawing" style="width:200px;"/>
 
 #### Onboarding
 <img src="onboarding1.jpg" alt="drawing" style="width:200px;"/> <img src="onboarding2.jpg" alt="drawing" style="width:200px;"/> <img src="onboarding3.jpg" alt="drawing" style="width:200px;"/>
