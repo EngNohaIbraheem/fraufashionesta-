@@ -1,5 +1,5 @@
 # Fraufashionista application
-Application for buying and selling clothes and following fashion
+Application  purchasing and selling apparel while staying up-to-date with the latest fashion trends.
 
 ## Built using
 - Flutter framework
