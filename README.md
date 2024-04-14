@@ -1,4 +1,4 @@
-# Fashion E-commerce App
+# Fraufashionista application
 Application for buying and selling clothes and following fashion
 
 ## Built using
