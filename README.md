@@ -17,25 +17,25 @@ Application for buying and selling clothes and following fashion
 <img src="welcome_screen.png" alt="drawing" style="width:200px;"/>
 
 #### Onboarding
-<img src="onboarding1.jpg" alt="drawing" style="width:200px;"/> <img src="onboarding2.jpg" alt="drawing" style="width:200px;"/> <img src="onboarding3.jpg" alt="drawing" style="width:200px;"/>
+<img src="onboarding1.png" alt="drawing" style="width:200px;"/> <img src="onboarding2.png" alt="drawing" style="width:200px;"/> <img src="onboarding2.png" alt="drawing" style="width:200px;"/>
 
 #### Auth
-<img src="signin_screen.jpg" alt="drawing" style="width:200px;"/> <img src="signup.jpg" alt="drawing" style="width:200px;"/>
+<img src="signin.png" alt="drawing" style="width:200px;"/> <img src="signup.png" alt="drawing" style="width:200px;"/>
 
 #### Reset Password
-<img src="reset_password.jpg" alt="drawing" style="width:200px;"/> <img src="verify.jpg" alt="drawing" style="width:200px;"/> <img src="new_password.jpg" alt="drawing" style="width:200px;"/>
+<img src="Resetpassword.jpg" alt="drawing" style="width:200px;"/> <img src="verify.jpg" alt="drawing" style="width:200px;"/> <img src="createnewpassword.png" alt="drawing" style="width:200px;"/>
 
 #### Main Screen
-<img src="home.jpg" alt="drawing" style="width:200px;"/> <img src="cart.jpg" alt="drawing" style="width:200px;"/> <img src="fav.jpg" alt="drawing" style="width:200px;"/> <img src="prof.jpg" alt="drawing" style="width:200px;"/>
+<img src="homescreen.png" alt="drawing" style="width:200px;"/> <img src="cart.jpg" alt="drawing" style="width:200px;"/> <img src="profile.png" alt="drawing" style="width:200px;"/>
 
 #### Search
-<img src="search.jpg" alt="drawing" style="width:200px;"/>
+<img src="search.png" alt="drawing" style="width:200px;"/>
 
 #### Category Products
-<img src="products.jpg" alt="drawing" style="width:200px;"/>
+<img src="productdetails.png" alt="drawing" style="width:200px;"/>
 
 #### Product Details
-<img src="product_details.jpg" alt="drawing" style="width:200px;"/>
+<img src="productdetails.png" alt="drawing" style="width:200px;"/>
 
 #### Checkout
 <img src="checkout.jpg" alt="drawing" style="width:200px;"/>
@@ -50,5 +50,5 @@ Application for buying and selling clothes and following fashion
 <img src="notify.jpg" alt="drawing" style="width:200px;"/>
 
 ## Contact us
-* What's app: 01275318664
-* E-mail: omarahmeddev0@gmail.com
+* What's app: 01021426050
+
